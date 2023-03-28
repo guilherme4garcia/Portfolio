@@ -4,9 +4,19 @@
 
 **Introdução**
 
-Meu nome é Guilherme Silva Garcia, tenho 31 anos e moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020. Em Junho eu entrei na empresa Dataside na área de desenvolvimento, chamada de "Sidelab", como Estagiário Desenvolvedor Back-End até fevereiro de 2022. Após trabalhar nessa empresa por 8 meses eu fui recrutado como Estagiário Desenvolvedor Back-End na empresa Sanar.
-
+Meu nome é Guilherme Silva Garcia, tenho 31 anos e moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020.
+Em Julho de 2021, consegui um estágio de Desenvolvedor Back-End, na empresa Tudo de Bicho, um eCommerce do segmento pet. 
+Minha segunda experiência foi na empresa Ericsson, onde atualmente trabalho com testes automatizados.
 ## **Meus Projetos**
+
+
+
+1- AppInventor
+2- SPC
+3- Wisdom
+4- TecStocks
+5- Arley WManager
+6- eFinance
 
 ### **Em 2020-1**
 
