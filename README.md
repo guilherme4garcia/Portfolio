@@ -6,9 +6,8 @@
 
 Meu nome é Guilherme Silva Garcia, tenho 31 anos e moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020.
 Em Julho de 2021, consegui um estágio de Desenvolvedor Back-End, na empresa Tudo de Bicho, um eCommerce do segmento pet. 
-Minha segunda experiência foi na empresa Ericsson, onde atualmente trabalho com testes automatizados.
+Atualmente trabalho na empresa Ericsson, com testes automatizados.
 ## **Meus Projetos**
-
 
 
 1- AppInventor
@@ -20,7 +19,7 @@ Minha segunda experiência foi na empresa Ericsson, onde atualmente trabalho com
 
 ### **Em 2020-1**
 
-O meu primeiro API foi um simples aplicativo, o seu objetivo seria um sistema que disponibilizaria informações sobre a sua planta, como a sua temperatura, umidade e também seria possível ligar uma lâmpada que aqueceria a planta.
+O primeiro projeto teve como proposta criar uma aplicação IoT utilizando a plataforma do MIT AppInventor, nosso grupo decidiu automatizar uma cafeteira. Desenvolvemos um aplicativo que foi capaz de ligar e desligar a cafeteira em um horário programado.
 
 ![](https://i.imgur.com/hnjDpqK.png)
 
