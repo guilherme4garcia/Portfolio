@@ -19,7 +19,7 @@ Atualmente trabalho na empresa Ericsson, com testes automatizados.
 
 ### **Em 2020-1**
 
-O primeiro projeto teve como proposta criar uma aplicação IoT utilizando a plataforma do MIT AppInventor, nosso grupo decidiu automatizar uma cafeteira. Desenvolvemos um aplicativo que foi capaz de ligar e desligar a cafeteira em um horário programado.
+O primeiro projeto teve como proposta criar uma aplicação IoT utilizando a plataforma do MIT AppInventor, nosso grupo decidiu automatizar uma cafeteira. Desenvolvemos um aplicativo que capaz de ligar e desligar a cafeteira em um horário programado. Para controlar a cafeteira utilizamos uma placa NodeMCU.
 
 ![](https://i.imgur.com/hnjDpqK.png)
 
@@ -31,7 +31,7 @@ O primeiro projeto teve como proposta criar uma aplicação IoT utilizando a pla
 
 #### **Contribuições Pessoais**
 
-Eu fui responsável por programar as placas de arduino e fazer a sua integração em hardware, algo que eu não possuía muita experiência anteriormente
+Eu fui responsável pela programação na plataforma AppInventor. E também fui responsável pela ideia de automatizar uma cafeteira.
 
 #### **Hard Skills**
 
@@ -39,12 +39,14 @@ Eu fui responsável por programar as placas de arduino e fazer a sua integraçã
 
 #### **Soft Skills**
 
-Anteriormente a esse Projeto eu ainda não tinha desenvolvido uma aplicação em conjunto ao um grupo, então eu consegui desenvolver bastante as minhas _skills_ de comunicação e trabalho em equipe.
+Criativade e Resolução de problemas - Esse projeto exigiu muita criatividade e um mindset de resolução de problemas, uma vez que não tinhamos muito familiaridade com programação e também com a ideia de _Internet of Things_
 
 ## 
 **Em 2020-2**
 
-Já no meu segundo API nós desenvolvemos um sistema de gerenciamento para motoristas para a empresa Iacit que é especializada em Controle Tráfego Aéreo e Marítimo que transportam entregas. Para esse projeto nós precisávamos criar uma aplicação onde o motorista conseguiria registrar a sua jornada de trabalho, ajustar a sua carga horária de acordo com o acordo coletivo sindical e listar essas informações para o administrador dessa aplicação, nossa solução foi uma aplicação Web, com interfaces onde era possível efetuar todas essas ações.
+Para o segundo API a empresa SPC Brasil propôs aos alunos da FATEC-SJC construir um sistema que se adeque ao Cadastro Positivo, visando criar um produto que agregue valor ao SPC.
+
+Nós desenvolvemos uma aplicação que gera notificações para clientes, através do endereço de e-mail do usuário. O software verifica de forma periódica a base de dados, sendo possível filtrar os clientes com base nas informações do score de cada usuário. 
 
 ![](https://i.imgur.com/VKoKJS2.png)
 
@@ -52,36 +54,31 @@ Já no meu segundo API nós desenvolvemos um sistema de gerenciamento para motor
 
 #### **Tecnologias Utilizadas**
 
-**Spring** - Principal Framework em Java utilizado na aplicação para desenvolver a sua lógica, e processar as páginas HTML.
+**Python** - Utilizado na aplicação para desenvolver toda a lógica da aplicação e processar a interface.
 
-**Postgres** - Banco de dados utilizado para persistir os dados da aplicação.
+**TKinter** - Ferramenta de construção de interfaces gráficas em Python.
 
-**Hibernate** - _ORM_ (Mapeamento objeto-relacional) que possibilita um desenvolvimento muito mais simples e eficiente.
+**SQLite3** - Banco de dados utilizado para persistir os dados da aplicação.
 
-**Figma** - Plataforma utilizada para o design da aplicação.
+**MIMEText** - Biblioteca Python utilizada para enviar emails.
 
-**HTML/CSS** - Linguagem de marcação utilizada para criar as páginas WEB.
 
 #### **Contribuições Pessoais**
 
-Desde o começo da aplicação eu foquei na parte Back-End, onde eu desenvolvi a comunicação com o banco de dados, a lógica de registro de usuários e login e também o registro das horas de trabalho do usuário.
+Desde o começo da aplicação eu foquei na parte Back-End, onde eu desenvolvi a comunicação com o banco de dados, e a lógica de envio de e-mails.
 
 #### **Hard Skills**
 
-Spring - Anteriormente ao projeto eu teria utilizado o Framework, então ao utilizar ele para o desenvolvimento eu aprendi bastante sobre o Framework em si, mas também adquiri um conhecimento em Java.
-
-Hibernate - Anteriormente ao projeto eu nunca tinha utilizado um _ORM_ (Mapeamento objeto-relacional), então nesse projeto eu descobri a sua utilidade.
-
-HTML/CSS - Eu já teria utilizado essa Hard Skills em alguns projetos pessoais, mas nesse projeto eu reforcei esses conhecimentos.
+Python - Essa linguagem foi nossa principal ferramenta durante todo esse projeto e pude aprender bastante sobre a linguagem e algumas bibliotecas disponíveis.
 
 #### **Soft Skills**
 
-Novamente foi possível desenvolver as minhas skills de comunicação e cooperação em time, também como a minha colaboração como um membro do time
+Nesse projeto foi possível desenvolver as minhas skills de comunicação e cooperação em time.
 
 ## 
 **Em 2021-1**
 
-Para o nosso segundo API nossa empresa parceira foi a "_NessHealth_" que é uma empresa focada em medicina diagnóstica. O problema do segundo API foi criar uma plataforma de ensino que contém cursos e aulas online, possibilitando também que professores criassem tarefas e os alunos pudessem resolver ela. O que foi apresentado pelo meu time foi algo que realizasse todos esses requisitos mas também adicionando novas ideias, como um chat para uma comunicação entre professores e alunos e um sistema de avaliações.
+Para o nosso terceiro API nossa empresa parceira foi a "_NessHealth_" que é uma empresa focada em medicina diagnóstica. O problema do segundo API foi criar uma plataforma de ensino que contém cursos e aulas online, possibilitando também que professores criassem tarefas e os alunos pudessem resolver ela. O que foi apresentado pelo meu time foi algo que realizasse todos esses requisitos mas também adicionando novas ideias, como um chat para uma comunicação entre professores e alunos e um sistema de avaliações.
 
 ![](https://i.imgur.com/FsRssV5.png)
 
@@ -89,7 +86,7 @@ Para o nosso segundo API nossa empresa parceira foi a "_NessHealth_" que é uma 
 
 #### **Tecnologias Utilizadas**
 
-**Spring** - Novamente nós utilizamos o Spring, já nesse projeto eu possuía um conhecimento melhor do framework, possibilitando um desenvolvimento mais rápido e com uma maior organização.
+**Spring** - Principal Framework em Java utilizado na aplicação para desenvolver a sua lógica, e processar as páginas HTML.
 
 **MySQL** - Nesse projeto nós utilizamos o Banco de Dados MySQL, um banco de dados bem conhecido no mercado, e utilizado por várias empresas.
 
@@ -101,22 +98,24 @@ Para o nosso segundo API nossa empresa parceira foi a "_NessHealth_" que é uma 
 
 #### **Contribuições Pessoais**
 
-Novamente nesse Projeto eu foquei mais na parte de Back-End, utilizando o mesmo framework porém enfrentando problemas mais complexos, como aceitar um arquivo e salvar ele na nuvem, ou implementar uma forma de autenticação do usuário utilizando a tecnologia de JWT Token.
+Nesse projeto trabalhei como Product Owner e também pude ajudar em múltiplas etapas do desenvolvimento, atuando tanto no front-end quanto no back-end.
 
 #### **Hard Skills**
 
-Spring - Já tínhamos utilizado esse Framework no projeto passado, porém utilizamos ferramentas novas e resolvemos problemas diferentes, assim expandindo o conhecimento desse Framework.
+Spring - Tive meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento com Java e a orientação a objetos.
 
-React - Anteriormente a esse projeto eu nunca teria utilizado esse Framework, então essa foi uma ótima oportunidade para aprender a utilizá-la, isso foi ótimo pois React é uma muito utilizado no mercado hoje em dia.
+React - Também foi meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento em _Single Page Application_ e todas as tecnologias que acompanham o React.
 
 #### **Soft Skills**
 
-Nesse projeto eu já trabalhei com um time diferente, enfrentando novos problemas e também possuindo um cliente bem exigente assim aprendendo como trabalhar sobre pressão e também trabalhei bastante na minha motivação pois trabalhei com algumas tecnologias novas, algo que eu sempre gosto
+Eu trabalhei como PO nesse projeto e isso foi um grande desafio, pois o cliente era bem exigente e pude melhorar bastante minhas habilidades sociais e de comunicação. Por apresentar o produto para os clientes também melhorei minha capacidade de falar em público e comunicar ideias.
 
 ## 
-**Em 2021-2**
+**Em 2022-1**
 
-Para o nosso terceiro API eu fiquei bem empolgado pois a nossa empresa parceira foi a Embraer. O problema que foi apresentado foi que a Embraer possui vários manuais e precisavam que nós criássemos um aplicativo que iria disponibilizar esses manuais e também seria possível cadastrar novos manuais nessa plataforma. A nossa solução foi algo bem alinhado com o que o cliente gostaria.
+O terceiro API  a empresa parceira foi a Embraer. O cliente gostaria de uma aplicação que iria notificar o usuário de novos procedimentos em caso de algum problema relacionado a uma aeronave registrada. Desenvolvemos uma aplicativo mobile para compartilhamento de documentos de aeronaves com seus clientes e também um sistema web de administração para cadastro de usuários e novos documentos. Ambas as aplicações foram feitas em React.
+
+GIT
 
 ![](https://i.imgur.com/X1EI4Bc.png)
 
@@ -126,32 +125,32 @@ Para o nosso terceiro API eu fiquei bem empolgado pois a nossa empresa parceira 
 
 **Node.JS** - Para esse projeto nós decidimos utilizar o Frameworks Node para o nosso Back-end, um Framework bem utilizado no mercado hoje em dia que possuía um grande suporte de sua comunidade
 
-**PostgreSQL** - Novamente nós utilizamos o PostgreSQL, um banco de dados bem utilizado pelo mercado
-
-**Typescript** - Typescript é essencial para projeto grandes de NodeJS, ele implementa tipagem para o Javascript
+**MongoDB** - Banco de dados não relacional para armazenamento de JSON.
 
 **Figma** - Plataforma utilizada para o design da aplicação.
 
-**React -** Novamente nós utilizamos o React, um Framework muito utilizado hoje em dia
+**React Native** - Desenvolvimento em React para aplicações mobile.
 
 #### **Contribuições Pessoais**
 
-Novamente nesse Projeto eu foquei mais na parte de Back-End, porém nesse projeto nós escolhemos utilizar o NodeJS e devido ao meu trabalho eu já possuía uma experiência bem grande nesse Framework
+Nesse projeto pude trabalhar tanto no frontend quanto no backend.
 
 #### **Hard Skills**
 
-NodeJS- Um Framework que eu já teria utilizado no trabalho, porém eu aprendi várias coisas novas durante o projeto,
+NodeJS- Um Framework que eu já tinha experiência, porém eu aprendi várias coisas novas durante o projeto.
 
-React - Novamente nós utilizamos o React, algo bem essencial como experiência devido ao número de empresas que utilizam esse Framework
+React Native - Pude expandir ainda mais meu conhecimento com o framework do React, mas agora para aplicações mobile utilando o React Native
+
+NoSQL - Aprendi a utilizar bancos de dados NoSQL como o MongoDB para a peristência de documentos JSON com os respectivos dados do sistema.
 
 #### **Soft Skills**
 
-Esse projeto foi necessário uma grande parte de comunicação com o cliente devido ao seu grande número de requisitos para o projeto, e também como sempre eu trabalhei bastante o trabalho em equipe nesse projeto.
+Proatividade - Nesse projeto foi muito importante a proatividade durante o desenvolvimento, principalmente por ter algumas tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
 
 ## 
-**Em 2022-1**
+**Em 2022-2**
 
-Nesse API nosso cliente foi novamente a Embraer porém agora o problema seria um aplicativo que iria notificar o usuário de novos procedimentos em caso de algum problema relacionado a seu veículo registrado.
+Nesse API a ideia foi criar um sistema de gestão para um almoxarifado de uma empresa. Seria necessário um registro de novos produtos, a data de entrada e saída, o ambiente onde será utilizado o produto e qual a pessoa responsável pelo produto emprestado. Desenvolvemos uma aplicação web com sistema de autenticação e diferentes roles para cada tipo de usuário admin e user.
 
 ![](https://i.imgur.com/IuQtPG8.png)
 
@@ -163,26 +162,23 @@ Nesse API nosso cliente foi novamente a Embraer porém agora o problema seria um
 
 **MongoDB** - Nesse API nós escolhemos utilizar um banco _NoSQL_, um banco que possui uma integração com o NodeJS
 
-**Typescript** - Typescript é essencial para projeto grandes de NodeJS, ele implementa tipagem para o Javascript
-
 **Figma** - Plataforma utilizada para o design da aplicação.
 
-**React-Native -** O React-Native possibilita a o desenvolvimento de aplicativos que podem ser compilados tantos em Android como também em IOS
+**React** - Biblioteca front-end javascript
 
 #### **Contribuições Pessoais**
 
-Nesse projeto eu fiquei responsável pela maioria das tarefas relacionadas no Back-End, porém nesse projeto eu também ajudei bastante com alguns problemas.
+Participei ativamente durante todos o processo de desenvolvimento, atuando tanto no backend como no frontend.
 
 #### **Hard Skills**
 
-React-Native - Eu nunca teria utilizado o React-Native anteriormente, então eu aprendi muitas coisas sobre ele nesse API
+**Javascript** - Pude aprofundar meus conhecimentos na linguagem e 
 
 #### **Soft Skills**
 
-Nesse projeto eu desenvolvi bastante a cooperação com o time pois ocorreram vários problemas durante o desenvolvimento do API
 
 ## 
-**Em 2022-2**
+**Em 2023-1**
 
 Para o último API o nosso cliente foi a Visiona é uma empresa focada na integração de sistemas espaciais, onde foi requisitado implementar uma função em um aplicativo que já teria sido desenvolvido por um grupo anterior da Fatec, essa função seria uma Inteligência Artificial capaz de reconhecer a quantidade de sementes em uma vagem de soja.
 
@@ -226,5 +222,5 @@ Nesse momento em minha carreira eu teria focado bastante na parte de desenvolvim
 
 ## **Contatos**
 
-- [GIT](https://github.com/henrique73)
-- [LinkedIn](https://www.linkedin.com/in/henrique-erzinger-0853a215a/)
+- [GIT](https://github.com/guilherme4garcia)
+- [LinkedIn](https://www.linkedin.com/in/guilherme-garcia-dev/)
