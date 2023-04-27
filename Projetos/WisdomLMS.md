@@ -2,9 +2,9 @@
 
 Para o nosso terceiro API a empresa parceira foi a "_NessHealth_" que é uma empresa focada em medicina diagnóstica. O problema do segundo API foi criar uma plataforma de ensino que contém cursos e aulas online, possibilitando também que professores criassem tarefas e os alunos pudessem resolver ela. O que foi apresentado pelo meu time foi algo que realizasse todos esses requisitos mas também adicionando novas ideias, como um chat para uma comunicação entre professores e alunos e um sistema de avaliações.
 
-![](https://raw.githubusercontent.com/guilherme4garcia/TG-Portfolio/main/Assets/wisdom.jpg?token=GHSAT0AAAAAACB6GIDTJ7LA4A3QADSOX5N4ZCKN57A)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/wisdom.jpg?raw=true)
 
-![](https://raw.githubusercontent.com/guilherme4garcia/TG-Portfolio/main/Assets/wisdom-home.png?token=GHSAT0AAAAAACB6GIDS3JMR643QXJUPBCHUZCKN7HQ)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/wisdom-home.png?raw=true)
 
 
 #### **Tecnologias Utilizadas**
