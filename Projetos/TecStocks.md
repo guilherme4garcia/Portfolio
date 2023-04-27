@@ -30,8 +30,8 @@ NoSQL - Aprendi a utilizar bancos de dados NoSQL como o MongoDB para a peristên
 Proatividade - Nesse projeto foi muito importante a proatividade durante o desenvolvimento, principalmente por ter algumas tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
 
 ## Repositório
-[Documentação](https://github.com/TecStocks)
-[Frontend](https://github.com/TecStocks/frontend)
-[Backend](https://github.com/TecStocks/backend)
-[Servidor de Autenticação](https://github.com/TecStocks/auth-server)
-[Interface Admin](https://github.com/TecStocks/admin-react)
+- [Documentação](https://github.com/TecStocks) <br>
+- [Frontend](https://github.com/TecStocks/frontend) <br>
+- [Backend](https://github.com/TecStocks/backend) <br>
+- [Servidor de Autenticação](https://github.com/TecStocks/auth-server) <br>
+- [Interface Admin](https://github.com/TecStocks/admin-react) <br>
