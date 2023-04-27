@@ -5,13 +5,11 @@ Para o terceiro API  a empresa parceira foi a Embraer. O cliente gostaria de uma
 
 ## Tecnologias Utilizadas
 
-**Node.JS** - Para esse projeto nós decidimos utilizar o Frameworks Node para o nosso Back-end, um Framework bem utilizado no mercado hoje em dia que possuía um grande suporte de sua comunidade
-
-**MongoDB** - Banco de dados não relacional para armazenamento de JSON.
-
-**Figma** - Plataforma utilizada para o design da aplicação.
-
-**React Native** - Desenvolvimento em React para aplicações mobile.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br>
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 
 ## Contribuições Pessoais
 
