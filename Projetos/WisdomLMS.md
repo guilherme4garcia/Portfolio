@@ -38,4 +38,4 @@ Eu trabalhei como PO nesse projeto e isso foi um grande desafio, pois o cliente 
 https://user-images.githubusercontent.com/62018632/120943019-cf7efc80-c702-11eb-97b8-9eb7433cda8e.mp4
 
 ## Repositório:
-![Wisdom-LMS](https://github.com/guilherme4garcia/Wisdom-LMS)
+[Wisdom-LMS](https://github.com/guilherme4garcia/Wisdom-LMS)
