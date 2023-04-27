@@ -9,15 +9,12 @@ Para o nosso terceiro API a empresa parceira foi a "_NessHealth_" que é uma emp
 
 ## Tecnologias Utilizadas
 
-**Spring** - Principal Framework em Java utilizado na aplicação para desenvolver a sua lógica, e processar as páginas HTML.
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br>
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) <br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
 
-**MySQL** - Nesse projeto nós utilizamos o Banco de Dados MySQL, um banco de dados bem conhecido no mercado, e utilizado por várias empresas.
-
-**Hibernate** - _ORM_ (Mapeamento objeto-relacional) que possibilita um desenvolvimento muito mais simples e eficiente.
-
-**Figma** - Plataforma utilizada para o design da aplicação.
-
-**React -** Nesse API nós escolhemos utilizar o Framework React, possibilitando um desenvolvimento mais estável e rápido.
 
 ## Contribuições Pessoais
 
