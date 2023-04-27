@@ -25,9 +25,11 @@ Nesse projeto trabalhei como Product Owner e também pude ajudar em múltiplas e
 
 ## Hard Skills
 
-Spring - Tive meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento com Java e a orientação a objetos.
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) <br>
+Tive meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento com Java e a orientação a objetos.
 
-React - Também foi meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento em _Single Page Application_ e todas as tecnologias que acompanham o React.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
+Também foi meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento em _Single Page Application_ e todas as tecnologias que acompanham o React.
 
 ## Soft Skills
 
