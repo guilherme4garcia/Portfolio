@@ -9,13 +9,12 @@ Nós desenvolvemos uma aplicação que gera notificações para clientes, atrav�
 
 ## Tecnologias Utilizadas
 
-**Python** - Utilizado na aplicação para desenvolver toda a lógica da aplicação e processar a interface.
-
-**TKinter** - Ferramenta de construção de interfaces gráficas em Python.
-
-**SQLite3** - Banco de dados utilizado para persistir os dados da aplicação.
-
-**MIMEText** - Biblioteca Python utilizada para enviar emails.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <br>
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) <br>
+![TKinter](https://img.shields.io/badge/TKinter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -
+Ferramenta de construção de interfaces gráficas em Python. <br>
+![MIMEText](https://img.shields.io/badge/MIMEText-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -
+Biblioteca Python utilizada para enviar emails. <br>
 
 
 ## Contribuições Pessoais
