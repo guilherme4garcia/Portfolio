@@ -7,7 +7,7 @@ Para o nosso terceiro API a empresa parceira foi a "_NessHealth_" que é uma emp
 ![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/wisdom-home.png?raw=true)
 
 
-#### **Tecnologias Utilizadas**
+## Tecnologias Utilizadas
 
 **Spring** - Principal Framework em Java utilizado na aplicação para desenvolver a sua lógica, e processar as páginas HTML.
 
@@ -19,17 +19,17 @@ Para o nosso terceiro API a empresa parceira foi a "_NessHealth_" que é uma emp
 
 **React -** Nesse API nós escolhemos utilizar o Framework React, possibilitando um desenvolvimento mais estável e rápido.
 
-#### **Contribuições Pessoais**
+## Contribuições Pessoais
 
 Nesse projeto trabalhei como Product Owner e também pude ajudar em múltiplas etapas do desenvolvimento, atuando tanto no front-end quanto no back-end.
 
-#### **Hard Skills**
+## Hard Skills
 
 Spring - Tive meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento com Java e a orientação a objetos.
 
 React - Também foi meu primeiro contato com esse framework e pude aprender bastante sobre o desenvolvimento em _Single Page Application_ e todas as tecnologias que acompanham o React.
 
-#### **Soft Skills**
+## Soft Skills
 
 Eu trabalhei como PO nesse projeto e isso foi um grande desafio, pois o cliente era bem exigente e pude melhorar bastante minhas habilidades sociais e de comunicação. Por apresentar o produto para os clientes também melhorei minha capacidade de falar em público e comunicar ideias.
 
