@@ -19,9 +19,9 @@ Eu fui responsável pela programação na plataforma AppInventor. E também fui 
 
 **Programação em Bloco** - Essa foi a minha primeira experiência com Programação em Bloco então foi possível aprender muito sobre essa forma de programação
 
-#### **Soft Skills**
+## Soft Skills
 
-Criativade e Resolução de problemas - Esse projeto exigiu muita criatividade e um mindset de resolução de problemas, uma vez que não tinhamos muito familiaridade com programação e também com a ideia de _Internet of Things_
+**Criativade e Resolução de problemas** - Esse projeto exigiu muita criatividade e um mindset de resolução de problemas, uma vez que não tinhamos muito familiaridade com programação e também com a ideia de _Internet of Things_
 
 ## Repositório:
 
