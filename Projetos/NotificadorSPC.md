@@ -4,7 +4,7 @@ Meu segundo API na faculdade foi com a parceria da empresa SPC Brasil, que prop�
 
 Nós desenvolvemos uma aplicação que gera notificações para clientes, através do endereço de e-mail do usuário. O software verifica de forma periódica a base de dados, sendo possível filtrar os clientes com base nas informações do score de cada usuário. 
 
-![](https://raw.githubusercontent.com/guilherme4garcia/TG-Portfolio/main/Assets/spc-gifenviaremail.gif?token=GHSAT0AAAAAACB6GIDSUWBCNAO7ZAVOPIOYZCKNZKQ)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/spc-gifenviaremail.gif?raw=true)
 
 
 ## Tecnologias Utilizadas
@@ -22,11 +22,11 @@ Nós desenvolvemos uma aplicação que gera notificações para clientes, atrav�
 
 Desde o começo da aplicação eu foquei na parte Back-End, onde eu desenvolvi a comunicação com o banco de dados, e a lógica de envio de e-mails.
 
-**Hard Skills**
+## Hard Skills
 
 Python - Essa linguagem foi nossa principal ferramenta durante todo esse projeto e pude aprender bastante sobre a linguagem e algumas bibliotecas disponíveis.
 
-**Soft Skills**
+## Soft Skills
 
 Nesse projeto foi possível desenvolver as minhas skills de comunicação e cooperação em time.
 
