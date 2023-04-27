@@ -8,6 +8,12 @@ Nesse API a ideia foi criar um sistema de gestão para um almoxarifado de uma em
 
 ## Tecnologias Utilizadas
 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) <br>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br>
+
 **Node.JS** - Decidimos utilizar o Framework Node para o nosso Back-end, um Framework bem utilizado no mercado hoje em dia que possuía um grande suporte de sua comunidade
 
 **MongoDB** - Nesse API nós escolhemos utilizar um banco _NoSQL_, um banco de dados com esquema dinâmico que traz bastante flexibilidade e rapidez ao desenvolvimento.
