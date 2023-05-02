@@ -3,8 +3,8 @@
 
 Nesse API a ideia foi criar um sistema de gestão para um almoxarifado de uma empresa. Seria necessário um registro de novos produtos, a data de entrada e saída, o ambiente onde será utilizado o produto e qual a pessoa responsável pelo produto emprestado. Desenvolvemos uma aplicação web com sistema de autenticação e diferentes roles para cada tipo de usuário admin e user.
 
-![](https://raw.githubusercontent.com/guilherme4garcia/TG-Portfolio/main/Assets/wmanager.PNG?token=GHSAT0AAAAAACB6JJU5N5QIFFQVNYEZU2B6ZCKPJRQ)
-![](https://raw.githubusercontent.com/guilherme4garcia/TG-Portfolio/main/Assets/wmanager2.PNG?token=GHSAT0AAAAAACB6JJU5MXC4U5KFE4ZXXRSQZCKPKCA)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/wmanager.PNG?raw=true)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/wmanager2.PNG?raw=true)
 
 ## Tecnologias Utilizadas
 
