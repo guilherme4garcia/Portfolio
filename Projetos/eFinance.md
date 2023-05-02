@@ -15,6 +15,9 @@ Ao final do desenvolvimento, a plataforma deve apresentar as seguintes funcional
 - Comparação de Tarifas: visualização da comparação de tarifas entre as instituições financeiras selecionadas.
 - Histórico de Variação e Tendência de Tarifas: visualização da variação da tarifa selecionada ao longo de um período e com uma linha de tendência.
 
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/eFinance-taxas.png?raw=true)
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/eFinance-comparador.png?raw=true)
+
 ## Hard Skills
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
