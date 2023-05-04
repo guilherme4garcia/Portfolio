@@ -2,13 +2,16 @@
 
 # Guilherme Silva Garcia
 
-![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/IMG_20220803_125114.jpg?raw=true)
+<p align="center" width="100%">
+    <img width="25%" src="https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/IMG_20220803_125114.jpg"> 
+</p>
 
 **Introdução**
 
-Meu nome é Guilherme Silva Garcia, atualmente moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020.
+Meu nome é Guilherme Silva Garcia, atualmente moro em São José dos Campos. Eu entrei na FATEC no curso de Análise e Desenvolvimento de Sistemas em 2020.
 Em Julho de 2021, consegui um estágio de Desenvolvedor Back-End, na empresa Tudo de Bicho, um eCommerce do segmento pet. 
-Atualmente trabalho na empresa Ericsson, com testes automatizados. Sou um desenvolvedor com experiência na área de testes de software e backend. Acredito que a qualidade do software é crucial para a satisfação do cliente e o sucesso do projeto.
+Atualmente trabalho na empresa Ericsson com testes automatizados. Sou um desenvolvedor com experiência na área de testes de software e backend. Acredito que a qualidade do software é crucial para a satisfação do cliente e o sucesso do projeto.
+
 
 ## Meus Projetos
 
