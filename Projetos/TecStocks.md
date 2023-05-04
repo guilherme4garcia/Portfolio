@@ -2,6 +2,7 @@
 
 Para o terceiro API  a empresa parceira foi a Embraer. O cliente gostaria de uma aplicação que iria notificar o usuário de novos procedimentos em caso de algum problema relacionado a uma aeronave registrada. Desenvolvemos uma aplicativo mobile para compartilhamento de documentos de aeronaves com seus clientes e também um sistema web de administração para cadastro de usuários e novos documentos. Ambas as aplicações foram feitas em React.
 
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/teckstocks.png?raw=true)
 
 ## Tecnologias Utilizadas
 
