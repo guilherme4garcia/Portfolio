@@ -1,6 +1,6 @@
-# Portfólio
 
-# Guilherme Silva Garcia
+
+# Portfólio - Guilherme Silva Garcia
 
 <p align="center" width="100%">
     <img width="25%" src="https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/IMG_20220803_125114.jpg"> 
