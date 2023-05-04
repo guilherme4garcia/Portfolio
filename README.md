@@ -2,6 +2,8 @@
 
 # Guilherme Silva Garcia
 
+![](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Assets/IMG_20220803_125114.jpg?raw=true)
+
 **Introdução**
 
 Meu nome é Guilherme Silva Garcia, atualmente moro em São José dos Campos. Eu entrei na FATEC para fazer o curso de Análise e Desenvolvimento de Sistemas em 2020.
