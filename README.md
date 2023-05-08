@@ -21,7 +21,7 @@ Atualmente trabalho na empresa Ericsson com testes automatizados. Sou um desenvo
 - [Score Mailer (Notificador)](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Projetos/NotificadorSPC.md) <br>
 ##### 2021/3ºSemestre:
 - [Wisdom LMS](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Projetos/WisdomLMS.md) <br>
-##### 2022/4ºSemestre -
+##### 2022/4ºSemestre:
 - [eFols TecStocks](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Projetos/TecStocks.md) <br>
 ##### 2022/5ºSemestre:
 - [WManager](https://github.com/guilherme4garcia/TG-Portfolio/blob/main/Projetos/WManager.md) <br>
