@@ -26,12 +26,12 @@ Nesse API a ideia foi criar um sistema de gestão para um almoxarifado de uma em
 
 Participei ativamente durante todos o processo de desenvolvimento, atuando tanto no backend como no frontend.
 
-## **Hard Skills**
+## Hard Skills
 
 **Javascript** - Pude aprofundar meus conhecimentos na linguagem, principalmente no framework Express.
 
-## **Soft Skills**
-Tive um papel de liderança nesse projeto e como já tinha tido experiência com as tecnologias que trabalhamos pude compartilhar bastante do meu conhecimento, atuando tanto no frontend como no backend.
+## Soft Skills
+Tive um papel de **liderança** nesse projeto como scrum master e como já tinha tido experiência com as tecnologias que trabalhamos pude **compartilhar** meu **conhecimento** com o restante do grupo, atuando tanto no frontend como no backend.
 
 
 ## Repositório
