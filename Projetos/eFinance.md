@@ -38,7 +38,7 @@ Como trabalhei apenas no frontend, também foi necessário muita **colaboração
 
 ## Minhas contribuições
 
-Nesse projeto trabalhei exclusivamente no frontend, foi meu primeiro contato com o framework Vue.
+Nesse projeto trabalhei exclusivamente no frontend, participei ativimente do desenvolvimento de todas as telas e componentes. Este foi meu primeiro contato com o framework Vue.
 
 ## Repositório
 [eFinance](https://github.com/cluster-8/eFinance)
