@@ -27,7 +27,7 @@ Python - Essa linguagem foi nossa principal ferramenta durante todo esse projeto
 
 ## Soft Skills
 
-Nesse projeto foi possível desenvolver as minhas skills de comunicação e cooperação em time.
+Nesse projeto foi possível desenvolver as minhas skills de comunicação e cooperação em time. Estavamos trabalhando com um cliente difícil, que tinha expectativas pouco realistas sobre o prazo do projeto. Usei minha habilidade de comunicação para explicar de forma clara e detalhada o tempo necessário para completar o projeto e quaisquer obstáculos que poderiam surgir. Além disso, eu ofereci soluções alternativas para o projeto. Com isso, consegui alinhar as expectativas do cliente com a realidade do projeto, o que evitou conflitos futuros.
 
 ## Repositório:
 
