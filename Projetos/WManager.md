@@ -29,6 +29,7 @@ Participei ativamente durante todos o processo de desenvolvimento, atuando tanto
 ## Hard Skills
 
 **Javascript** - Pude aprofundar meus conhecimentos na linguagem, principalmente no framework Express.
+**MongoDB** - Aprendi a fazer consultas e utilizei juntamente com o mongoose, uma biblioteca orientada a objeto para criar uma conexão com o NodeJS.
 
 ## Soft Skills
 - Liderança
