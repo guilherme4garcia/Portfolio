@@ -33,7 +33,7 @@ Participei ativamente durante todos o processo de desenvolvimento, atuando tanto
 ## Soft Skills
 - Liderança
 - Compartilhamento de conhecimento
-- Trabalho em Equipe
+
 Tive um papel de **liderança** nesse projeto como scrum master e como já tinha tido experiência com as tecnologias que trabalhamos pude **compartilhar** meu **conhecimento** com o restante do grupo, atuando tanto no frontend como no backend.
 
 
