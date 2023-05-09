@@ -26,7 +26,8 @@ NoSQL - Aprendi a utilizar bancos de dados NoSQL como o MongoDB para a peristên
 
 ## Soft Skills
 
-Proatividade - Nesse projeto foi muito importante a proatividade durante o desenvolvimento, principalmente por ter algumas tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
+Proatividade e Autonomia - Nesse projeto foi muito importante a proatividade durante o desenvolvimento, principalmente por ter algumas tecnologias que nunca havíamos utilizado e foi crucial ter autonomia em buscar aprender mais sobre elas e coordenar o time durante as sprints.
+Organização e Gerenciamento do Tempo - Estavamos com um prazo bem apertado neste projeto, então foi necessário um bom planejamento e gerenciamento do tempo para conseguirmos realizar as entregas e ter qualidade no resultado. 
 
 ## Repositório
 - [Documentação](https://github.com/TecStocks) <br>
