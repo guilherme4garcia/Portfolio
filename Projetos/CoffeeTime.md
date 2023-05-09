@@ -21,7 +21,7 @@ Eu fui responsável pela programação na plataforma AppInventor. E também fui 
 
 ## Soft Skills
 
-**Criativade e Resolução de problemas** - Esse projeto exigiu muita criatividade e um mindset de resolução de problemas, uma vez que não tinhamos muito familiaridade com programação e também com a ideia de _Internet of Things_.
+**Criativade e Resolução de problemas** - Esse projeto exigiu muita criatividade, por se tratar de um projeto de IoT, envolveu a integração de dispositivos e tecnologias diferentes, o que resultou em problemas complexos e difíceis de solucionar. Foi necessário um mindset de resolução de problemas, uma vez que não tinhamos muito familiaridade com programação e também com projetos de _Internet of Things_.
 
 ## Repositório:
 
