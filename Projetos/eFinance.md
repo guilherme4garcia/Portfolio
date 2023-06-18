@@ -34,6 +34,7 @@ Tecnologias utilizadas para a construção do modelo de machine learning.
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 
 O Java foi utilizando para a criação do backend da aplicação, utilizando o framework Springboot, que visa simplificar a criação de aplicativos robustos, escaláveis e de fácil manutenção.
+Utilizamos o Python para consumir as APIs de terceiros e processar esses dados atrav´ss de um modelo de machine learning. O frontend da aplicação foi feito utilizando o framework VueJs.
 
 ## Soft Skills
 
@@ -48,7 +49,7 @@ Como trabalhei apenas no frontend, também foi necessário muita **colaboração
 
 ## Minhas contribuições
 
-Nesse projeto trabalhei exclusivamente no frontend, participei ativamente do desenvolvimento de todas as telas e componentes. Este foi meu primeiro contato com o framework Vue.
+Nesse projeto trabalhei quase que exclusivamente no frontend, participei ativamente do desenvolvimento de todas as telas e componentes. Este foi meu primeiro contato com o framework Vue. Desenvolvi as telas de "Taxa de Serviços" e o "Comparador". Além disso também desenvolvi um sistema de Logs para a aplicação backend.
 
 ## Repositório
 [eFinance](https://github.com/cluster-8/eFinance)
