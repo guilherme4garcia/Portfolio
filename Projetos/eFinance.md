@@ -49,7 +49,7 @@ Como trabalhei apenas no frontend, também foi necessário muita **colaboração
 
 ## Minhas contribuições
 
-Nesse projeto trabalhei quase que exclusivamente no frontend, participei ativamente do desenvolvimento de todas as telas e componentes. Este foi meu primeiro contato com o framework Vue. Desenvolvi as telas de "Taxa de Serviços" e o "Comparador". Além disso também desenvolvi um sistema de Logs para a aplicação backend.
+Nesse projeto trabalhei quase que exclusivamente no frontend, participei ativamente do desenvolvimento de todas as telas e componentes. Este foi meu primeiro contato com o framework Vue. Desenvolvi as telas de "Taxa de Serviços" e o "Comparador". Além disso também desenvolvi um sistema de Logs para a aplicação backend, utilizando o Python Logging.
 
 ## Repositório
 [eFinance](https://github.com/cluster-8/eFinance)
