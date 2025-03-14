@@ -44,7 +44,7 @@ Utilizamos o Python para consumir as APIs de terceiros e processar esses dados a
 - Resolução de conflito
 - Networking
 
-Nunca tinha trabalhado com as outras pessoas do grupo, então foi uma excelente oportunidade para conhecer pessoas novas e criar um **networking**. Nossa equipe comparada as outras era a que possuia menos membros, foi necessário boa **comunicação** para conseguirmos entregarmos o que foi prometido ao final de cada sprint. Para gerenciar melhor o tempo nós utilizamos diversas ferramentas de planejamento.
+Nunca tinha trabalhado com as outras pessoas do grupo, então foi uma excelente oportunidade para conhecer pessoas novas e criar um **networking**. Nossa equipe comparada as outras era a que possuia menos membros, foi necessário boa **comunicação** para conseguirmos entregar o que foi prometido ao final de cada sprint. Para gerenciar melhor o tempo nós utilizamos diversas ferramentas de planejamento.
 Como trabalhei apenas no frontend, também foi necessário muita **colaboração** com as pessoas que estavam atuando em outras áreas de produto, isso garantiu que todos trabalhassem juntos de forma efetiva, respeitando as diferentes perspectivas e habilidades da equipe e também alcançando os objetivos do nosso projeto.
 
 ## Minhas contribuições
